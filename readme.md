@@ -43,7 +43,7 @@ Este proyecto utiliza variables de entorno para manejar información sensible. P
    # Configuración de SMTP2GO (o tu servicio de correo preferido)
    SMTP2GO_EMAIL=tu_correo@tudominio.com
    SMTP2GO_USERNAME=tu_usuario_smtp2go
-   SMTP2GO_PASSWORD=tu_contraseña_smtp2go
+   SMTP2GO_PASSWORD=**********
    SENDER_EMAIL=tu_correo_remitente@tudominio.com
    ```
 
